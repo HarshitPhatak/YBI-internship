@@ -1,0 +1,1 @@
+This repository contains a collection of projects completed during my internship at YBI Foundation. These projects reflect various skills and technologies applied throughout the internship. Explore the different projects to see practical applications of the knowledge gained during this experience.
